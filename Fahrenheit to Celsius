@@ -1,0 +1,4 @@
+#convert  fahrenheit to celsius
+fahrenheit=float(input("Enter fahrenheit:"))
+celsius=(fahrenheit-32)*5/9
+print("The celsius of the given fahrenheit is:", celsius)
